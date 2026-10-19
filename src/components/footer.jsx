@@ -6,10 +6,10 @@ export default function Footer() {
       <div className="mx-auto flex max-w-7xl flex-col justify-between gap-8 sm:flex-row">
         <div>
           <Link to="/" className="text-2xl font-black">
-            ruang<span className="text-[#b5c49a]">seduh.</span>
+            ngo<span className="text-[#b5c49a]">pi.yuk</span>
           </Link>
           <p className="mt-3 max-w-sm text-sm leading-7 text-[#d7cbbb]">
-            Secangkir kopi, ruang untuk cerita, dan jeda kecil
+            Secangkir kopi yang menghangatkan hati dan suasana, ruang untuk cerita, jeda kecil
             di tengah kesibukan.
           </p>
         </div>
@@ -20,7 +20,7 @@ export default function Footer() {
             Bandung, Jawa Barat
           </p>
           <a
-            href="https://instagram.com/"
+            href="https://www.instagram.com/nazhiranrf?obrf=MXJzdXRva2lhcGJwZg=="
             target="_blank"
             rel="noreferrer"
             className="mt-2 inline-block text-sm text-[#b5c49a] hover:underline"
@@ -31,7 +31,7 @@ export default function Footer() {
       </div>
 
       <div className="mx-auto mt-8 max-w-7xl border-t border-white/15 pt-5 text-xs text-[#d7cbbb]">
-        © 2026 Ruang Seduh Coffee. Konsep perusahaan fiktif untuk tugas website.
+        © 2026 Ngopi.yuk
       </div>
     </footer>
   )

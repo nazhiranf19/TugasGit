@@ -13,10 +13,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 border-b border-[#e9e0d2] bg-[#faf7f0]/95 backdrop-blur">
       <nav className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-6 py-5">
         <NavLink to="/" className="text-xl font-black tracking-tight text-[#594536]">
-          ruang<span className="text-[#8a9a72]">seduh.</span>
-          <span className="ml-2 text-xs font-normal tracking-widest text-[#88796a]">
-            COFFEE
-          </span>
+          ngo<span className="text-[#8a9a72]">pi.yuk</span>
         </NavLink>
 
         <div className="flex flex-wrap items-center gap-x-5 gap-y-3 text-sm">
